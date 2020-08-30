@@ -1,0 +1,7 @@
+[2020-08-30 10:16:07]  Notification with given message : [ Thanks for purchase! ] sent to email address : [ m@a.com ]
+[2020-08-30 10:30:31]  The given id = 5 doesn`t exist in clients.txt file.
+[2020-08-30 10:43:46]  Notification with given message : [ Thanks! Purchase id = 0, purchase name = Car ] sent to phone number : [ +992985200263 ]
+[2020-08-30 10:46:22]  Notification with given message : [ Thanks! Purchase info [ id: 0, name: Car, price: 20000 ] sent to phone number : [ +992985200263 ]
+[2020-08-30 10:47:28]  Not found client with given id = 1
+[2020-08-30 10:47:41]  Notification with given message : [ Thanks! Purchase info [ id: 0, name: Car, price: 20000 ] sent to phone number : [ +992985200263 ]
+[2020-08-30 10:48:03]  Notification with given message : [ Thanks! Purchase info [ id: 0, name: Car, price: 20000 ]  ] sent to phone number : [ +992985200263 ]
