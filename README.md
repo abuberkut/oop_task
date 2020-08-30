@@ -1,1 +1,1 @@
-#Open console run "php index.php"
+Open console run "php index.php"
